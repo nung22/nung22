@@ -1,5 +1,4 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm Nicholas, a passionate software engineer and web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nung22&label=Profile%20views&color=0e75b6&style=flat" alt="nung22" /> </p>
 
@@ -7,6 +6,7 @@
   <tr>
     <td style="width:50%">
       <ul>
+        <li> 📛 <b>Name:</b>Nicholas Ung</li>
         <li> 🌱 <b>Active Projects: </b></li>
             <ul>
                 <li> <a href="https://github.com/nung22/fleaflickr"> FleaFlickr </a></li>
@@ -26,10 +26,9 @@
         <li> 🗃 <a href="https://nung22.github.io/portfolio"> My Personal Website! </a></li>
     </td>
     <td style="width:50%">
-        <img src=./Assets/img/ScrollingItem.gif style="width:500px"/>
+        <img src=./Assets/img/computer.gif style="width:500px"/>
         <div>
             <a href="https://storyset.com/web">Web illustrations by Storyset</a>
-            <p>Animated using Figma, <a href="https://www.figma.com/community/plugin/733025261168520714/Figmotion">Figmotion</a><p>
         </div>
     </td>
   </tr>
