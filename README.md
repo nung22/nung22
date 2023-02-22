@@ -13,7 +13,7 @@
                 <li> <a href="https://github.com/nung22/chow-counter"> Chow Counter </a></li>
             </ul>
         <li> 🔭 I am currently Seeking Work! </li>
-        <li> 🌽 <b>Interested In:</b>DFull Stack Development</li>
+        <li> 🌽 <b>Interested In: </b>Front-end, Back-end, and Full-stack development</li>
         <li> 🎮 <b>Hobbies:</b>
           <ul>
             <li> Fitness (Currently training for the LA marathon) </li>
