@@ -6,7 +6,7 @@
   <tr>
     <td style="width:50%">
       <ul>
-        <li> 📛 <b>Name:</b>Nicholas Ung</li>
+        <li> 📛 <b>Name: </b>Nicholas Ung</li>
         <li> 🌱 <b>Active Projects: </b></li>
             <ul>
                 <li> <a href="https://github.com/nung22/fleaflickr"> FleaFlickr </a></li>
