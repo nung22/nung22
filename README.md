@@ -1,5 +1,5 @@
-<h1 align="left">Hi there 👋 I'm Nicholas Ung</h1>
-<h3 align="left">A passionate software engineer and web developer.</h3>
+<h1 align="left">Hi there 👋</h1>
+<h3 align="left">I'm Nicholas, a passionate software engineer and web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nung22&label=Profile%20views&color=0e75b6&style=flat" alt="nung22" /> </p>
 
@@ -9,8 +9,8 @@
       <ul>
         <li> 🌱 <b>Active Projects: </b></li>
             <ul>
-                <li>[FleaFlickr](https://github.com/nung22/fleaflickr)</li>
-                <li>[Chow Counter](https://github.com/nung22/chow-counter)</li>
+                <li> <a href="https://github.com/nung22/fleaflickr"> FleaFlickr </a></li>
+                <li> <a href="https://github.com/nung22/chow-counter"> Chow Counter </a></li>
             </ul>
         <li> 🔭 I am currently Seeking Work! </li>
         <li> 🌽 <b>Interested In:</b>DFull Stack Development</li>
@@ -23,7 +23,7 @@
         </li>
         <li> 💬 How was your Day? </li>
         <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
-        <li> 🗃 [My Personal Website!](https://nung22.github.io/portfolio) </li>
+        <li> 🗃 <a href="https://nung22.github.io/portfolio"> My Personal Website! </a></li>
     </td>
     <td style="width:50%">
         <img src=./Assets/img/ScrollingItem.gif style="width:500px"/>
