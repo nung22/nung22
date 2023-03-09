@@ -50,7 +50,7 @@
 
 ***
 
-## 📒FleaFlickr | [Github](https://github.com/nung22/fleaflickr) | [Live](http://52.13.10.236/fleaflickr)
+## 📒FleaFlickr | [Github](https://github.com/nung22/fleaflickr) | [Live](http://35.91.110.95/fleaflickr)
 <table style="border-radius: .5rem; border: gray solid 1px; padding: 1rem; max-width: 65rem">
   <tr style="border-style: hidden; font-size: 1rem">
     <td style="width:50%">
