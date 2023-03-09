@@ -21,7 +21,6 @@
             <li> Board Games </li>
           </ul>
         </li>
-        <li> 💬 How was your Day? </li>
         <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
         <li> 🗃 <a href="https://nung22.github.io/portfolio"> My Personal Website! </a></li>
     </td>
