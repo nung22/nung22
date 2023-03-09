@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-## 🍜Chow Counter | [Github](https://github.com/nung22/chow-counter) | [Live](http://34.222.109.47/chowcounter)
+## 🍜Chow Counter | [Github](https://github.com/nung22/chow-counter) | [Live](http://54.201.41.80/chowcounter)
 <table style="border-radius: .5rem; border: gray solid 1px; padding: 1rem; max-width: 65rem">
   <tr style="border-style: hidden; font-size: 1rem">
     <td style="width:50%; padding: 1rem 1rem 0rem 2rem">
