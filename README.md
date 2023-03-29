@@ -12,11 +12,11 @@
                 <li> <a href="https://github.com/nung22/fleaflickr"> FleaFlickr </a></li>
                 <li> <a href="https://github.com/nung22/chow-counter"> Chow Counter </a></li>
             </ul>
-        <li> 🔭 <b>I am currently:</b> Seeking Work!</li>
+        <li> 🔭 <b>I am currently:</b> Seeking Work </li>
         <li> 🌽 <b>Interested In: </b>Front-end, Back-end, and Full-stack development</li>
         <li> 🎮 <b>Hobbies:</b>
           <ul>
-            <li> Fitness (Currently training for the LA marathon) </li>
+            <li> Fitness </li>
             <li> Cooking </li> 
             <li> Board Games </li>
           </ul>
