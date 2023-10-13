@@ -12,14 +12,6 @@
                 <li> <a href="https://github.com/nung22/fleaflickr"> FleaFlickr </a></li>
                 <li> <a href="https://github.com/nung22/chow-counter"> Chow Counter </a></li>
             </ul>
-        <li> 🌽 <b>Interested In: </b>Front-end, Back-end, and Full-stack development</li>
-        <li> 🎮 <b>Hobbies:</b>
-          <ul>
-            <li> Fitness </li>
-            <li> Cooking </li> 
-            <li> Board Games </li>
-          </ul>
-        </li>
         <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
         <li> 🗃 <a href="https://nung22.github.io/portfolio"> My Personal Website! </a></li>
     </td>
