@@ -2,27 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nung22&label=Profile%20views&color=0e75b6&style=flat" alt="nung22" /> </p>
 
-<table style="border-radius: .5rem; border: gray solid 1px; padding: 1rem">
-  <tr style="border-style: hidden; font-size: 1.1rem">
-    <td style="width:50%">
+<ul>
+  <li> 📛 <b>Name: </b>Nicholas Ung</li>
+  <li> 🌱 <b>Recent Projects: </b></li>
       <ul>
-        <li> 📛 <b>Name: </b>Nicholas Ung</li>
-        <li> 🌱 <b>Recent Projects: </b></li>
-            <ul>
-                <li> <a href="https://github.com/nung22/fleaflickr"> FleaFlickr </a></li>
-                <li> <a href="https://github.com/nung22/chow-counter"> Chow Counter </a></li>
-            </ul>
-        <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
-        <li> 🗃 <a href="https://nung22.github.io/portfolio"> My Personal Website! </a></li>
-    </td>
-    <td style="width:50%; padding: 2rem 2rem 1rem 3rem">
-        <img src=./Assets/img/computer.gif style="width:500px; border-radius: .5rem; "/>
-        <div style="text-align: center; margin-top:.8rem">
-          <a href="https://storyset.com/web">Web illustrations by Storyset</a>
-        </div>
-    </td>
-  </tr>
-</table>
+          <li> <a href="https://github.com/nung22/fleaflickr"> FleaFlickr </a></li>
+          <li> <a href="https://github.com/nung22/chow-counter"> Chow Counter </a></li>
+      </ul>
+  <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
+  <li> 🗃 <a href="https://nung22.github.io/portfolio"> My Personal Website! </a></li>
+</ul>
+
 
 ***
 
