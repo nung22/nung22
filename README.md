@@ -1,7 +1,5 @@
 <h1 align="left">👋 Hello there!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nung22&label=Profile%20views&color=0e75b6&style=flat" alt="nung22" /> </p>
-
 <ul>
   <li> 📛 <b>Name: </b>Nicholas Ung</li>
   <li> 🌱 <b>Recent Projects: </b></li>
@@ -10,7 +8,7 @@
           <li> <a href="https://github.com/nung22/chow-counter"> Chow Counter </a></li>
       </ul>
   <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
-  <li> 🗃 <a href="https://nung22.github.io/portfolio"> My Personal Website! </a></li>
+  <li> 🗃 <a href="https://nung22.github.io/portfolio"> Portfolio Website </a></li>
 </ul>
 
 
@@ -30,7 +28,7 @@
 
 ***
 
-### 🛠️ _Disclaimer: Not all live links may be working at the moment, feel free to reach out to me if that's the case!_
+### 🛠️ _Not all live links may be working at the moment, feel free to reach out to me if that's the case!_
 
 ## 📒FleaFlickr | [Github](https://github.com/nung22/fleaflickr) | [Live](http://35.91.110.95/fleaflickr)
 <table style="border-radius: .5rem; border: gray solid 1px; padding: 1rem; max-width: 65rem">
@@ -60,6 +58,3 @@
 
 ***
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nung22&show_icons=true&locale=en&layout=compact" alt="nung22" style="box-shadow: 2px 2px 10px black"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nung22&" alt="nung22" style="box-shadow: 2px 2px 10px black"/></p>
