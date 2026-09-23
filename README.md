@@ -24,4 +24,4 @@ My name is Nick! I'm a software engineer specializing in scalable backend servic
 *   **[Chow Counter](https://github.com/nung22/chow-counter):** Centralized app for discovering restaurants / recipes with integrated calorie-tracking.
     *   *Tech Stack:* Javascript, React, Express, TailwindCSS, Node.js, AWS EC2
 
-> 🛠️ _Note: Not all live deployments may be active at the moment. Feel free to reach out or check the repositories for setup instructions!_
+> _Note: Not all live deployments may be active at the moment. Check repositories for setup instructions._
