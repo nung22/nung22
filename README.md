@@ -2,7 +2,7 @@
 
 My name is Nick! I'm a software engineer specializing in scalable backend services and full-stack enterprise applications. My professional background includes architecting real-time Java Spring Boot services at JT4, building distributed frontend components at Amazon, and delivering high-impact web features at PolicyEngine.
 
-📫 [Email](mailto:nicholasung22@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/nicholas-ung) | 🗃️ [Portfolio](https://nung22.github.io/portfolio)
+[Email](mailto:nicholasung22@gmail.com) | [LinkedIn](https://linkedin.com/in/nicholas-ung) | [Portfolio](https://nung22.github.io/portfolio)
 
 ---
 
