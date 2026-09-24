@@ -6,7 +6,7 @@ My name is Nick! I'm a software engineer specializing in scalable backend servic
 
 ---
 
-### 💻 Technical Stack
+### 💻 Tech Stack
 
 *   **Languages:** TypeScript, Java, Python, C++, C#, Kotlin, SQL, JavaScript, Bash
 *   **Frameworks:** Spring Boot, Vue, React, Next.js, Node.js, Express, Flask, Tailwind
@@ -19,9 +19,9 @@ My name is Nick! I'm a software engineer specializing in scalable backend servic
 
 *   **[PerfectRep](https://github.com/nung22/PerfectRep):** AI-powered computer vision application that tracks body keypoints and provides real-time biomechanical feedback.
     *   *Tech Stack:* Python, Streamlit, OpenCV, ONNX Runtime, Pandas
+*   **[Nick's Job Tracker](https://nung22.github.io/nicks-job-search):** Static website that dynamically generates advanced Google Search operators to query over 30 different ATS platforms.
+    *   *Tech Stack:* TypeScript, React, Tailwind CSS, Headless UI, GitHub Actions (CI/CD)
 *   **[FleaFlickr](https://github.com/nung22/fleaflickr):** Project management web app with a built-in issue tracking system. 
-    *   *Tech Stack:* Java, Spring Boot, Javascript, MySQL, Bootstrap, AWS EC2
-*   **[Chow Counter](https://github.com/nung22/chow-counter):** Centralized app for discovering restaurants / recipes with integrated calorie-tracking.
-    *   *Tech Stack:* Javascript, React, Express, TailwindCSS, Node.js, AWS EC2
+    *   *Tech Stack:* Java, Spring Boot, JavaScript, MySQL, Bootstrap, AWS EC2
 
 > _Note: Not all live deployments may be active at the moment. Check repositories for setup instructions._
