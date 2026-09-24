@@ -19,7 +19,7 @@ My name is Nick! I'm a software engineer specializing in scalable backend servic
 
 *   **[PerfectRep](https://github.com/nung22/PerfectRep):** AI-powered computer vision application that tracks body keypoints and provides real-time biomechanical feedback.
     *   *Tech Stack:* Python, Streamlit, OpenCV, ONNX Runtime, Pandas
-*   **[Nick's Job Tracker](https://nung22.github.io/nicks-job-search):** Static website that dynamically generates advanced Google Search operators to query over 30 different ATS platforms.
+*   **[Nick's Job Tracker](https://nung22.github.io/nicks-job-search):** Static site that dynamically generates advanced Google Search operators to query over 30 different ATS platforms.
     *   *Tech Stack:* TypeScript, React, Tailwind CSS, Headless UI, GitHub Actions (CI/CD)
 *   **[FleaFlickr](https://github.com/nung22/fleaflickr):** Project management web app with a built-in issue tracking system. 
     *   *Tech Stack:* Java, Spring Boot, JavaScript, MySQL, Bootstrap, AWS EC2
